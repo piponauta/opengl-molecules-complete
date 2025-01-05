@@ -1,0 +1,6 @@
+[submodule "opengl-molecules"]
+	path = opengl-molecules
+	url = https://github.com/piponauta/opengl-molecules
+[submodule "libSOIL"]
+	path = libSOIL
+	url = https://github.com/piponauta/libSOIL
